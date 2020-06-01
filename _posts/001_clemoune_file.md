@@ -1,1 +1,6 @@
-This is a new file 
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+this is a slide
+Use the left arrow to go back!
